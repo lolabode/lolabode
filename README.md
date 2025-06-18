@@ -4,7 +4,16 @@
 
 I am [Felicia Oyebode](https://www.linkedin.com/in/felicia-oyebode-587353197/). I'm a qualified Chartered Accountant and data enthusiast who transforms raw data into clear, actionable insights that help businesses make smarter decisions. With a solid foundation in finance and business strategy, I bring a unique perspective to data analysis, bridging the gap between numbers and impact. My skill set spans data wrangling, cleaning, and preprocessing, with a strong focus on building intuitive dashboards and crafting compelling data stories. I work primarily with Power BI, SQL, Excel, and Python. Currently exploring opportunities to apply and expand my skills in real-world projects, especially in roles where data meets strategy. 
 
-- 💬 Ask me anything about **Data Analytics/ Data Visualization/ Financial Analysis**
+## :recycle: Core Competences:
+
+- Data Wrangling
+- Analytics
+- Interactive Visual Reporting
+- Data Governance
+- Data Preprocessing
+
+
+## 💬 Ask me anything about **Data Analytics/ Data Visualization/ Financial Analysis**
 
 - 📫 How to reach me **omololafeoyebode@gmail.com**
 
