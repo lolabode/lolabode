@@ -45,24 +45,20 @@ I am [Felicia Oyebode](https://www.linkedin.com/in/felicia-oyebode-587353197/). 
 <a href="https://www.instagram.com/d_lolabode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_lolabode" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+### 🛠 Languages/Tools & Technologies I Use:
+
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+
+- ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png) Excel
+
+-  ![MS SQL](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) MS SQL
+
+- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL
+
+- ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI
+
   </a>
   
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/>
-  </a>
-
-  <!-- MS SQL -->
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="mssql" width="40" height="40"/>
-  </a>
-
-  <!-- Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
-  </a>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lolabode&show_icons=true&locale=en&layout=compact" alt="lolabode" /></p
 </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lolabode&show_icons=true&locale=en" alt="lolabode" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lolabode&" alt="lolabode" /></p>
