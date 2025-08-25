@@ -1,6 +1,24 @@
 ![](https://github.com/lolabode/Felicia-Oyebode-/blob/main/jpng.png)
 
-<h1 align="center">Hi 👋, I'm Felicia</h1>
+<h1 align="center">Hi 👋, I'm Felicia </h1>
+
+<div align="center">
+
+<h3>Data Analyst 📊 &nbsp;||&nbsp; Business Analyst 👩‍💻 </h3>
+
+</div>
+
+<div align="center">
+
+ <a href="https://www.linkedin.com/in/felicia-oyebode-587353197/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/lolabode" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
+## 🚀 About me:
 
 I am [Felicia Oyebode](https://www.linkedin.com/in/felicia-oyebode-587353197/). I'm a qualified Chartered Accountant and data enthusiast who transforms raw data into clear, actionable insights that help businesses make smarter decisions. With a solid foundation in finance and business strategy, I bring a unique perspective to data analysis, bridging the gap between numbers and impact. My skill set spans data wrangling, cleaning, and preprocessing, with a strong focus on building intuitive dashboards and crafting compelling data stories. I work primarily with Power BI, SQL, Excel, and Python. Currently exploring opportunities to apply and expand my skills in real-world projects, especially in roles where data meets strategy. 
 
