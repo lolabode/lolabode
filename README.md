@@ -9,6 +9,9 @@
 </div>
 
 <div align="center">
+  <a href="https://lolabode.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-yellow?style=for-the-badge&logo=sap&logoColor=black" />
+  </a>
 
  <a href="https://www.linkedin.com/in/felicia-oyebode-587353197/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
