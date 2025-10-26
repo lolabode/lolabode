@@ -5,7 +5,7 @@
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/felicia-oyebode-587353197/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:omololafeoyebode@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="omololafeoyebode@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
    <a href="https://lolabode.github.io" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-yellow?style=for-the-badge&logo=sap&logoColor=black" />
 </p>
