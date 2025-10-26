@@ -17,9 +17,12 @@ I'm a Chartered Accountant and data enthusiast who transforms raw data into clea
       
 ## 🔭 What I'm Currently Working On 
 
-🏦 Finance Analytics Dashboard: Building an automated reporting system processing donations  
-📊 Customer Quality Analytics: Optimizing performance for 200+ customer service agents  
-🎓 Data Education Content: Creating educational tips and tutorials on data analysis and visualization on LinkedIn/
+🏦 Finance Analytics Dashboard: Building an automated reporting system processing donations 
+
+📊 Customer Quality Analytics: Optimizing performance for 200+ customer service agents 
+
+🎓 Data Education Content: Creating educational tips and tutorials on data analysis and visualization on LinkedIn
+
 🤖 Predictive Models: Developing forecasting systems with 90%+ accuracy rates  
 
 
