@@ -17,35 +17,31 @@ I'm a Business Analyst with experience using data to solve business problems, im
       
 ## 🔭 What I'm Currently Working On 
 
-🏦 Finance Analytics Dashboard: Building an automated reporting system processing donations 
+🏦 Finance Analytics Dashboard: Building an automated reporting system to analyse donation data and improve financial reporting. 
 
-📊 Customer Quality Analytics: Optimizing performance for 200+ customer service agents 
+📊 Customer Quality Analytics: Analysing performance data for 200+ customer service agents to identify trends, performance gaps, and opportunities for improvement. 
 
-🤖 Predictive Models: Developing forecasting systems with 90%+ accuracy rates  
+🤖 Predictive Models: Developing machine learning models to identify patterns, forecast outcomes, and support data-driven business decisions
 
-
-## 🌱 Currently Learning 
-
-Cloud Analytics: Exploring Azure data platform for scalable solutions
 
 ## 🛠️ Technical Stack 
 Data Analysis & Visualization
 <p>
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-Certified-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/LookerStudio-Expert-4285F4?style=flat&logo=looker&logoColor=white">
+  <img src="https://img.shields.io/badge/LookerStudio-Intermediate-4285F4?style=flat&logo=looker&logoColor=white">
 </p>
 Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Apps%20Script-Expert-34A853?style=flat&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Apps%20Script-Intermediate-34A853?style=flat&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </p>
 Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Expert-FF6B6B?style=flat">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Intermediate-FF6B6B?style=flat">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Advanced-4ECDC4?style=flat">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat">
