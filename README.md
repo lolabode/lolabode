@@ -11,7 +11,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Chartered Accountant and data enthusiast who transforms raw data into clear, actionable insights that help businesses make smarter decisions. With a solid foundation in finance and business strategy, I bring a unique perspective to data analysis, bridging the gap between numbers and impact. My skill set spans data wrangling, cleaning, and preprocessing, with a strong focus on building intuitive dashboards and crafting compelling data stories. I work primarily with Power BI, SQL, Excel, and Python. Currently exploring opportunities to apply and expand my skills in real-world projects, especially in roles where data meets strategy.
+I'm a Business Analyst with experience using data to solve business problems, improve processes, and support informed decision-making. I combine business understanding with analytical thinking to interpret complex information, identify patterns and opportunities, and develop practical recommendations. My work also includes predictive modelling and machine learning to assess potential business outcomes and support forward-looking decisions. My approach combines business understanding with data analysis, with a focus on improving efficiency and delivering better business outcomes.
 
 ### [🏆My Portfolio](https://lolabode.github.io/)
       
