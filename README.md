@@ -50,13 +50,41 @@ Predicting which loan applicants are likely to miss repayments, and how a lender
 
 ## Skills
 
-**Business analysis:** requirements gathering, stakeholder analysis, process mapping (BPMN), user stories and acceptance criteria, gap analysis, UAT, business cases
+**Business Analysis**
+<p>
+  <img src="https://img.shields.io/badge/Requirements%20Gathering-Intermediate-0A66C2?style=flat">
+  <img src="https://img.shields.io/badge/Stakeholder%20Analysis-Intermediate-0A66C2?style=flat">
+  <img src="https://img.shields.io/badge/Process%20Mapping%20(BPMN)-Intermediate-0A66C2?style=flat">
+  <img src="https://img.shields.io/badge/User%20Stories%20%26%20Acceptance%20Criteria-Intermediate-0A66C2?style=flat">
+  <img src="https://img.shields.io/badge/Gap%20%26%20Root%20Cause%20Analysis-Intermediate-0A66C2?style=flat">
+  <img src="https://img.shields.io/badge/UAT-Intermediate-0A66C2?style=flat">
+  <img src="https://img.shields.io/badge/Business%20Cases-Advanced-0A66C2?style=flat">
+</p>
 
-**Data and BI:** SQL, Power BI (DAX, Power Query), Advanced Excel, dashboards and reporting
+**Data & Business Intelligence**
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Dashboards%20%26%20Reporting-Advanced-4479A1?style=flat">
+  <img src="https://img.shields.io/badge/Financial%20Analysis-Advanced-2E7D5B?style=flat">
+</p>
 
-**Analytics:** Python (pandas, scikit-learn), R, predictive modelling, cost-benefit and scenario analysis
+**Analytics & Programming**
+<p>
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-Intermediate-276DC3?style=flat&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Predictive%20Modelling-Intermediate-45B7D1?style=flat">
+  <img src="https://img.shields.io/badge/Cost--Benefit%20Analysis-Advanced-45B7D1?style=flat">
+</p>
 
-**Tools:** Jira, Confluence, Visio, draw.io
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Jira-Intermediate-0052CC?style=flat&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Confluence-Intermediate-172B4D?style=flat&logo=confluence&logoColor=white">
+  <img src="https://img.shields.io/badge/Visio-Intermediate-3955A3?style=flat">
+  <img src="https://img.shields.io/badge/draw.io-Intermediate-F08705?style=flat&logo=diagramsdotnet&logoColor=white">
+</p>
 
 ---
 
