@@ -7,7 +7,7 @@ I help organisations find where time and money are being lost, and what to do ab
 <p>
   <a href="https://lolabode.github.io"><img src="https://img.shields.io/badge/Portfolio-lolabode.github.io-0A66C2?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/felicia-oyebode-587353197/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:amfelicia9@gmail.com"><img src="https://img.shields.io/badge/Email-amfelicia9%40gmail.com-2E7D5B?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:amfelicia9@gmail.com?subject=Business%20Analyst%20opportunity"><img src="https://img.shields.io/badge/Contact%20Me-2E7D5B?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
